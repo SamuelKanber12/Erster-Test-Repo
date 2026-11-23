@@ -1,0 +1,16 @@
+Dokumentation - IT-Support
+
+Projekt: Git und GitHub Übung
+
+Ziel:
+Verwaltung von Support-Dateien mit Git und GitHub.
+
+Arbeitsablauf:
+1. Dateien erstellen und bearbeiten
+2. Änderungen mit git add vorbereiten
+3. Änderungen mit git commit speichern
+4. Änderungen mit git push auf GitHub hochladen
+5. Feature-Branches erstellen und zusammenführen
+
+Ergebnis:
+Die Support-Dateien werden zentral auf GitHub verwaltet.

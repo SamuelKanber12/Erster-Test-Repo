@@ -1,0 +1,7 @@
+Ticket-Regeln - IT-Support
+
+1. Jedes Problem erhält eine eigene Ticketnummer.
+2. Die Problembeschreibung muss verständlich sein.
+3. Die Priorität des Tickets wird festgelegt.
+4. Bearbeitungsschritte werden dokumentiert.
+5. Nach erfolgreicher Lösung wird das Ticket geschlossen.

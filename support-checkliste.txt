@@ -1,0 +1,7 @@
+Support-Checkliste
+
+1. Supportanfrage entgegennehmen
+2. Problem analysieren
+3. Fehlerursache feststellen
+4. Lösung durchführen
+5. Funktion überprüfen

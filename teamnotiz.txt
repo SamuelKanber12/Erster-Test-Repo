@@ -1,0 +1,6 @@
+Teamnotiz - IT-Support
+
+1. Supportanfragen sorgfältig bearbeiten.
+2. Probleme und Lösungen dokumentieren.
+3. Bei schwierigen Problemen Rücksprache halten.
+4. Abgeschlossene Tickets kontrollieren.
