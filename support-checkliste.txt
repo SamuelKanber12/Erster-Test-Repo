@@ -5,3 +5,5 @@ Support-Checkliste
 3. Fehlerursache feststellen
 4. Lösung durchführen
 5. Funktion überprüfen
+6. Rückmeldung an den Benutzer geben
+7. Ticket mit kurzer Lösungsbeschreibung schließen
